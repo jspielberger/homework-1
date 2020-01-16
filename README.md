@@ -1,1 +1,2 @@
 # homework-1
+# I tried to get rid of as much CSS code as possible by using HTML5 semantics (eg. header, aside, content). Using those I was able to delete a lot of classes and using just the semantics. That way I was able to delete a lot of duplicate CSS modifiers. 
